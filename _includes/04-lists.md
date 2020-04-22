@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Tech
+* Nature
+* Creative Arts
+  * Music
+  * Movie
+  * Fine-Arts
+* Food :blush:
